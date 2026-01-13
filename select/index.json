@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Canned Heat",
+  "base_artist": "Jamiroquai",
+  "createdAt": "2026-01-13T18:39:18.912794Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Canned Heat",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/01_Canned_Heat_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Canned Heat",
+      "artist": "Canned Heat",
+      "has_synced": false,
+      "path": "select/02_Canned_Heat_Canned_Heat.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Canned Heat",
+      "artist": "Turnstile",
+      "has_synced": true,
+      "path": "select/03_Canned_Heat_Turnstile.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Canned Heat (Album Version)",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/04_Canned_Heat_(Album_Version)_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Canned Heat",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/05_Canned_Heat_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Canned Heat",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/06_Canned_Heat_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Canned Heat (edit)",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/07_Canned_Heat_(edit)_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Canned Heat (7 Edit)",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/08_Canned_Heat_(7_Edit)_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Canned Heat (7' Edit)",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/09_Canned_Heat_(7'_Edit)_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Canned Heat Blues",
+      "artist": "Tommy Johnson",
+      "has_synced": true,
+      "path": "select/10_Canned_Heat_Blues_Tommy_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cuttin' Out (feat. Canned Heat)",
+      "artist": "John Lee Hooker",
+      "has_synced": false,
+      "path": "select/11_Cuttin'_Out_(feat._Canned_Heat)_John_Lee_Hooker.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Canned Heat (Futureshock mix)",
+      "artist": "Jamiroquai",
+      "has_synced": false,
+      "path": "select/12_Canned_Heat_(Futureshock_mix)_Jamiroquai.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Canned Heat",
+      "artist": "Turnstile",
+      "has_synced": true,
+      "path": "select/13_Canned_Heat_Turnstile.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Canned Heat (Remastered)",
+      "artist": "Jamiroquai",
+      "has_synced": false,
+      "path": "select/14_Canned_Heat_(Remastered)_Jamiroquai.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Canned Heat (remastered)",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/15_Canned_Heat_(remastered)_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Canned Heat",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/16_Canned_Heat_Jamiroquai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Canned Heat",
+      "artist": "Jamiroquai",
+      "has_synced": false,
+      "path": "select/pl_01_Canned_Heat_Jamiroquai.txt"
+    }
+  ]
+}
